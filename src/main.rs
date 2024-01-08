@@ -3,7 +3,6 @@ use image::RgbImage;
 mod image_ops;
 use image_ops::{
     create_image,
-    // edit_pixel,
     save_image
 };
 

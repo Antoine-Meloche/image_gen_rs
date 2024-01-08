@@ -1,6 +1,5 @@
 use image::RgbImage;
 
-// use crate::image_ops::edit_pixel;
 use crate::image_ops::draw_circle;
 
 pub fn create_circle_grid(image: &mut RgbImage) {
